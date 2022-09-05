@@ -1,2 +1,2 @@
 # PeanoPython
- Most Elegant Peano Arithmatic in Python
+ Most Elegant Peano Arithmatic Implementation in Python
